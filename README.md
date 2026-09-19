@@ -25,15 +25,15 @@ These days I build and operate my own products end to end — architecture, CI/C
 
 ## Projects
 
-**[FoundersDeck](https://foundersdeck.dev)** — EU-hosted reliability toolkit
+**[FoundersDeck](https://foundersdeck.dev)** — EU-hosted reliability toolkit  
 Uptime, heartbeat/cron monitoring and public status pages. Built and operated solo: HTTP endpoint, SSL, DNS and background-process monitoring with differentiated incident classification. Fully EU-hosted, no third-party trackers, cookie-free status pages.
 `SvelteKit 2` `Svelte 5` `TypeScript` `Node.js` `PostgreSQL` `Drizzle` `Docker`
 
-**[Stellwerk AI](https://github.com/Engin-Blitz/stellwerk-ai)** — AI candidate matching, Apache-2.0
+**[Stellwerk AI](https://github.com/Engin-Blitz/stellwerk-ai)** — AI candidate matching, Apache-2.0  
 Fairness-first recruiting tool: CVs are anonymised on import, scoring runs strictly name-blind, and an automated counterfactual check proves it. Hybrid retrieval fuses HNSW vector search with Postgres full-text via Reciprocal Rank Fusion; two-stage pipeline with LLM judge, verdict caching and resumable background evaluation runs. Eval suite covers retrieval recall, reranking, judge consistency and bias.
 `Next.js` `TypeScript` `Bun` `PostgreSQL 17` `pgvector` `Docker/Podman`
 
-**[blitzfa.st](https://blitzfa.st)** — portfolio & product hub
+**[blitzfa.st](https://blitzfa.st)** — portfolio & product hub  
 Central place for my work: portfolio, and the home for everything I build and ship.
 
 ---
