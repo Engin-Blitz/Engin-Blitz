@@ -55,5 +55,6 @@ Central place for my work: portfolio, and the home for everything I build and sh
 ## Contact
 
 🌐 [blitzfa.st](https://blitzfa.st) · [foundersdeck.dev](https://foundersdeck.dev)
+✉️ engin.yildirim@blitzfa.st
 🔗 [LinkedIn](https://linkedin.com/in/yildirim-engin) · [X](https://x.com/Engin_Blitz)
 🗣️ German (native) · Turkish (native) · English (C1)
